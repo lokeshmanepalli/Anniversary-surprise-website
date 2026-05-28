@@ -1,0 +1,1 @@
+Replace image1.jpg to image13.jpg inside src/assets/images with your own photos.
